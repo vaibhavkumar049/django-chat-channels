@@ -25,7 +25,7 @@ SECRET_KEY = 'nmzslfaol3x$th0wet&jzjk#r74rms$raspwlfs#!he7vaqmib'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','.firebaseapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.firebaseapp.com','.ngrok.io']
 
 
 # Application definition
